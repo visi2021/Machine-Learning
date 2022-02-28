@@ -1,8 +1,12 @@
 # Machine-Learning
 Project - Supervised Machine Learning 
+
 Packages to be installed and imported into Jupyter
+
 Plotly (conda install -c plotly plotly or pip install plotly)
+
 Pandas-Profiling (conda install -c conda-forge pandas-profiling) 
+
 xgboost (conda install -c conda-forge xgboost followed by pip install xgboost) 
 
 Summary:
