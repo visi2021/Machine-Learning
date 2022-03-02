@@ -1,6 +1,8 @@
 # Machine-Learning
 Project - Supervised Machine Learning 
 
+***Very Important: Please download the .html file as it is too large to open the repository and it has my full results.  
+
 Train.csv - Training dataset (Used for project, other datasets are for info only)
 
 Test.csv - Test dataset
